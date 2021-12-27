@@ -12,7 +12,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@logseq/libs": "^0.0.1-alpha.34"
   },
@@ -20,6 +20,8 @@
     "parcel": "^2.0.1"
   },
   "logseq": {
-    "id": "_miri3h5tw"
+    "id": "logseq-apptnotes-plugin",
+    "title": "logseq-apptnotes-plugin",
+    "icon": "./icon.svg"
   }
 }
